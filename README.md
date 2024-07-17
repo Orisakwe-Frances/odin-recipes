@@ -1,2 +1,2 @@
 # odin-recipes
-Here is a project to create a recipes by putting into use all the HTML knowledge gathered so far. This includes: HTML Boilerplate,Elements, Attributes, Comments, Links and Images.
+Here is a project on different simple recipes: Banana cake, Peri Peri Chicken and Hamburger Bun Bread Pudding. I am very open to comments, corrections, suggestions and insights. Thank you in anticipation.
